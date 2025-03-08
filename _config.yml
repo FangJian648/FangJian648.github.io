@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jian Fang / Personal HomePage"
+title                    : "Jian Fang"
 title_separator          : "-"
 name                     : &name "Jian Fang"
 description              : &description "personal description"
