@@ -27,7 +27,7 @@ If you are interested in my research, please feel free to contact me!
   <ul>
     <li><strong>2026.01</strong>: One paper accepted by <b>KBS</b> </li>
     <li><strong>2025.10</strong>: Our paper published at <b>ACM MM'25</b> </li>
-    <li><strong>2025.09</strong>: Start my master's study at HIT. </li>
+    <li><strong>2025.09</strong>: Start my master's study at <b>HIT</b> </li>
   </ul>
 </div>
 
