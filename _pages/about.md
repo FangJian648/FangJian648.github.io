@@ -30,3 +30,27 @@ If you are interested in my research, please feel free to contact me!
     <li><strong>2025.09</strong>: Start my master's study at HIT. </li>
   </ul>
 </div>
+
+# 📝 Publications
+
+## Conference and Journal Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM'25</div><img src='images/acmmm2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+*Human Motion Generation in 3D Scenes from Open-Ended Textual Instructions with MLLM Planning*
+
+Siyi Qian\*, **Jian Fang**\*, Yuzhou Mao\*, Yayun Zou, Wentao Zhang, Haiwei Xue
+
+[**Paper**](https://dl.acm.org/doi/10.1145/3746027.3754850)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS'26</div><img src='images/geomr2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+*GEOMR: Integrating Image Geographic Features and Human Reasoning Knowledge for Image Geolocalization*
+
+**Jian Fang**, Siyi Qian, Shaohui Liu
+
+[**Paper**](https://dl.acm.org/doi/10.1145/3746027.3754850)
+
+</div>
+</div>
+
