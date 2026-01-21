@@ -35,8 +35,6 @@ If you are interested in my research, please feel free to contact me!
 
 ## Conference and Journal Publications
 
-### Selected Publications
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM'25</div><img src='images/acmmm2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *Human Motion Generation in 3D Scenes from Open-Ended Textual Instructions with MLLM Planning*
