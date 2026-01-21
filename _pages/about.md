@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a senior undergraduate student at Harbin Institute of Technology(HIT), and I have been granted admission to pursue my master's degree at the same university. My research interests primarily focus on computer vision processing, multi-modal large models, and image geolocation. I am fortunate to be under the guidance of [Prof. Shaohui Liu](http://homepage.hit.edu.cn/liushaohui).
+Hi there! I am currently a master's student at Harbin Institute of Technology (HIT), advised by [Prof. Shaohui Liu](http://homepage.hit.edu.cn/liushaohui). Prior to this, I earned my Bachelor's degree in Computer Science and Technology from Harbin Institute of Technology. My research interests include multimodal large language models and adversarial attacks. 
 
 If you are interested in my research, please feel free to contact me!
-
