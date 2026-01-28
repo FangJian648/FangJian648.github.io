@@ -41,7 +41,7 @@ If you are interested in my research, please feel free to contact me!
 
 Siyi Qian\*, **Jian Fang**\*, Yuzhou Mao\*, Yayun Zou, Wentao Zhang, Haiwei Xue
 
-[**Paper**](https://dl.acm.org/doi/10.1145/3746027.3754850)
+[**Paper**](https://doi.org/10.1145/3746027.3754850)
 </div>
 </div>
 
@@ -51,7 +51,7 @@ Siyi Qian\*, **Jian Fang**\*, Yuzhou Mao\*, Yayun Zou, Wentao Zhang, Haiwei Xue
 
 **Jian Fang**, Siyi Qian, Shaohui Liu
 
-[**Paper**](https://dl.acm.org/doi/10.1145/3746027.3754850)
+[**Paper**](https://doi.org/10.1016/j.knosys.2026.115391)
 
 </div>
 </div>
