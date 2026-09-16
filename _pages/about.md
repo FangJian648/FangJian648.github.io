@@ -25,6 +25,7 @@ If you are interested in my research, please feel free to contact me!
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.09</strong>: Our technical report, SenseNova-U1.5, is now available on arXiv!</li>
     <li><strong>2026.01</strong>: One paper accepted by <b>KBS</b> </li>
     <li><strong>2025.10</strong>: Our paper published at <b>ACM MM'25</b> </li>
     <li><strong>2025.09</strong>: Start my master's study at <b>HIT</b> </li>
@@ -32,6 +33,27 @@ If you are interested in my research, please feel free to contact me!
 </div>
 
 # 📝 Publications
+
+## Technical Reports
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv'26</div>
+      <img src='images/sensenova-u1_5.png'
+           alt="SenseNova-U1.5 overview" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+*SenseNova-U1.5: Towards Native Unified Visual Intelligence*
+
+Haiwen Diao, Jiahao Wang, Chenjing Ding, Hanming Deng, Jiangnan Chen, Ruixi Zhang, Ruohui Wang, Wenwen Tong, Xiangyu Fan, Yubo Wang, Yue Zhu, Yuwei Niu, Zhengqi Bai, Zhiqian Lin, Zhitao Yang, Zhongang Cai, Bo Yang, Chen Feng, Chengguang Lv, Guangjia Liu, Guanlin Wang, Hanyu Zhang, Haojia Yu, Hongcan Xiao, Hongli Wang, Huan Wu, Huaping Zhong, **Jian Fang**, Jianan Fan, Jiaqi Li, Jiefan Lu, Jing Zuo, Jingcheng Ni, Junxiang Xu, Linjun Dai, Mutian Xu, Peishen Yan, Penghao Wu, Ruijie Mao, Ruisi Wang, Shihao Bai, Shuang Yang, Shuya Yang, Shuyan Zheng, Silei Wu, Siying Li, Tao Chu, Tianbo Zhong, Tongxi Zhou, Weichao Luo, Weichen Fan, Wenhao Jia, Wenjie Gao, Xiangli Kong, Yan Li, Yang Yong, Zimo Wen, Zixuan Qian, Wenxiu Sun, Ruihao Gong, Quan Wang, Lewei Lu, Lei Yang, Ziwei Liu, Dahua Lin
+
+[**Paper**](https://arxiv.org/abs/2609.11929)
+
+  </div>
+</div>
 
 ## Conference and Journal Publications
 
